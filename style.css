@@ -1,0 +1,24 @@
+.main{
+    width: 1440px;
+    margin: 740px 600px 400px 500px;
+    /* background-color:hsl(0, 0%, 100%); */
+    background-image: url("image-omelette.jpeg");
+    background-size: contain;
+    background-position: center;
+    border:14px solid hsl(30, 18%, 87%);
+    border-radius: 50px;
+    Padding: 50px;
+    outline: solid 1440px hsl(30, 54%, 90%);
+    img{
+        width: 150px;
+        height: 150px;
+    }
+
+}
+
+
+.Tab{
+
+    border: 2px solid hsl(30, 18%, 87%);
+    }
+
